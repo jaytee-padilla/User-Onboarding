@@ -74,3 +74,25 @@
   color: #e57373;
   margin-top: 5px;
 }
+
+.checkbox-container {
+	margin-bottom: 10px;
+}
+
+.checkbox-container .error-text {
+	margin-top: -0.5px;
+}
+
+.checkbox-container label {
+  color: #999;
+  font-size: 13px;
+  display: block;
+}
+
+.checkbox-container label .checkbox {
+	margin-right: 5px;
+}
+
+.checkbox-container label .checkbox-text {
+	vertical-align: top;
+}
